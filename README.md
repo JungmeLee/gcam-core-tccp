@@ -66,3 +66,11 @@ Edmonds, J., M. Wise, H. Pitcher, R. Richels, T. Wigley, and C. MacCracken. (199
 Kim, S.H., J. Edmonds, J. Lurz, S. J. Smith, and M. Wise (2006) “The ObjECTS Framework for Integrated Assessment: Hybrid Modeling of Transportation ” Energy Journal (Special Issue #2) pp 51-80.
 
 [Full list of GCAM publications](http://jgcri.github.io/gcam-doc/references.html)
+
+## Fork / Derivative Information
+
+This repository is a fork of [GCAM-KAIST/gcam-core](https://github.com/GCAM-KAIST/gcam-core),  
+specifically based on the branch `jungme/paper/tccpkorea`. 
+This version contains adaptations for the **TCCP Korea analysis**,  
+including modified input datasets and scenario assumptions tailored to Korean carbon neutrality studies.
+
