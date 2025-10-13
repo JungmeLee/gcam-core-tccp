@@ -1,0 +1,35 @@
+﻿Carbon Price (unit: 2020USD/tCO2),,
+scenario,2030,2035
+NZ50_Benchmark,130,198
+NZ50_Advanced clean technology,120,186
+NZ50_Conservative clean technology ,144,207
+NZ50_High GDP,139,205
+NZ50_Low GDP ,122,186
+NZ50_Fast coal phase out,109,195
+NZ50_Slow coal phase out,142,201
+NZ50_High oil prices,127,181
+NZ50_Low oil prices,132,201
+NZ50_High natural gas prices,122,174
+NZ50_Low natural gas prices,132,205
+NZ40_Benchmark,209,238
+NZ40_Advanced clean technology,200,230
+NZ40_Conservative clean technology ,218,247
+NZ40_High GDP,211,238
+NZ40_Low GDP ,205,238
+NZ40_Fast coal phase out,203,238
+NZ40_Slow coal phase out,212,238
+NZ40_High oil prices,201,214
+NZ40_Low oil prices,211,248
+NZ40_High natural gas prices,199,230
+NZ40_Low natural gas prices,212,241
+NZ60_Benchmark,92,131
+NZ60_Advanced clean technology,84,121
+NZ60_Conservative clean technology,103,139
+NZ60_High GDP,101,147
+NZ60_Low GDP,84,117
+NZ60_Fast coal phase out,66,118
+NZ60_Slow coal phase out,108,140
+NZ60_High oil prices,89,125
+NZ60_Low oil prices,95,136
+NZ60_High natural gas prices,81,106
+NZ60_Low natural gas prices,95,135
