@@ -1,0 +1,14 @@
+﻿CO2 emissions by sector (unit: MtCO2),,,,,,,,,,,
+Year: 2030,,,,,,,,,,,
+Sector,Benchmark,Advanced clean technology ,Conservative clean technology,High GDP,Low GDP,Fast coal phase out,Slow coal phase out,High oil prices,Low oil prices,High natural gas prices,Low natural gas prices
+Buildings,35.023,34.478,36.118,35.562,34.348,37.061,33.919,34.184,35.610,31.381,36.198
+Electricity,142.771,140.570,144.773,139.153,145.832,133.799,146.951,144.891,141.397,143.597,141.898
+Industry,152.145,155.012,148.667,150.110,154.624,158.587,149.284,152.710,151.806,150.346,152.866
+Transport,152.513,153.146,151.771,155.917,148.808,153.949,151.744,150.775,153.576,153.008,152.397
+,,,,,,,,,,,
+Year: 2035,,,,,,,,,,,
+Sector,Benchmark,Advanced clean technology ,Conservative clean technology,High GDP,Low GDP,Fast coal phase out,Slow coal phase out,High oil prices,Low oil prices,High natural gas prices,Low natural gas prices
+Buildings,28.094,28.341,28.912,27.917,28.388,28.886,27.259,29.104,28.509,20.752,30.165
+Electricity,82.303,78.508,85.372,79.795,87.114,74.852,87.106,95.404,80.048,86.825,81.325
+Industry,104.979,107.996,102.417,98.580,108.315,109.209,102.293,97.397,104.620,101.315,104.658
+Transport,136.958,137.505,136.177,140.582,131.351,137.461,136.315,125.665,138.759,137.830,135.747
